@@ -3,7 +3,7 @@ Automatic Change your ip location in the given time period Using GUI
 
 OUR YOUTUBE LINK :https://www.youtube.com/channel/UCuafVcvdTEir2jaXW8hhaoQ
 
-<center><img src="screenshot/logo.jpg"></center>
+<center><img src="screenshot/logo.png"></center>
 
 
 #INSTALL
