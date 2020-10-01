@@ -11,7 +11,7 @@
 # Program information
 readonly prog_name="autoprox"
 readonly version="1.23.2"
-readonly signature="Copyright (C) 2020-TECHNOBOTNET"
+readonly signature="Copyright (C) 2020-RedHands"
 readonly git_url="https://github.com/blackhacker3/Autoprox"
 
 # Set colors for terminal output
@@ -65,7 +65,7 @@ readonly non_tor="127.0.0.0/8 10.0.0.0/8 172.16.0.0/12 192.168.0.0/16"
 # Show program banner
 # ===================================================================
 
-toilet -t -f smmono12 -F metal  'TECHNO BOT NET' 
+toilet -t -f smmono12 -F metal  'RED HANDS' 
 echo v $version
 
 
