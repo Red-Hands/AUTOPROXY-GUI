@@ -6,13 +6,7 @@ OUR YOUTUBE LINK :https://www.youtube.com/channel/UCuafVcvdTEir2jaXW8hhaoQ
 <center><img src="screenshot/logo.png"></center>
 <br><br>
 
-<figure class="large">
-    <div class="myvideo">
-       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-           <source src="https://www.youtube.com/watch?v=Tc7SC7PVhqs" type="video/mp4" />
-           </video>
-    </div>
-</figure>
+<video src="https://www.youtube.com/watch?v=Tc7SC7PVhqs"></video>
 
 #INSTALL
 
