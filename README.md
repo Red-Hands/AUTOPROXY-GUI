@@ -5,8 +5,8 @@ OUR YOUTUBE LINK :https://www.youtube.com/channel/UCuafVcvdTEir2jaXW8hhaoQ
 
 <center><img src="screenshot/logo.png"></center>
 <br><br>
-
-<video src="https://www.youtube.com/watch?v=Tc7SC7PVhqs"></video>
+DEMO VIDEO HERE
+https://www.youtube.com/watch?v=Tc7SC7PVhqs
 
 #INSTALL
 
